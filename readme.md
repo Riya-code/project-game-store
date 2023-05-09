@@ -7,6 +7,6 @@
 ![ALT](https://img.shields.io/badge/-RESPONSIVE-green)
 📱💻
 
-[Click here to Preview Website](https://gameofworld.netlify.app/)
+[Click here to Preview Website](https://riya-code.github.io/project-game-store/)
 
 ![Project 3](./Gaming%20Landing%20Page.png)
